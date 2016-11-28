@@ -1,0 +1,16 @@
+{
+  "name": "jsx-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jsxRedux.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-react": "^6.11.1",
+    "redux": "^3.6.0"
+  }
+}
